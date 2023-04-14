@@ -1,3 +1,7 @@
+# California license plates (Json version)
+This is simply a fork of https://github.com/veltman/ca-license-plates, only that in .json form, nothing else has changed about it, The original description is as follows.
+<hr>
+
 # California license plates
 
 **Warning: this dataset contains vulgar and offensive language (quite a lot of it).**
